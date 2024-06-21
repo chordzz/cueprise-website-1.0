@@ -39,7 +39,6 @@
   "bugs": {
     "url": "https://github.com/chordzz/cueprise-website-1.0/issues"
   },
-  "homepage": "https://chordzz.github.io/cueprise-website-1.0/",
   "eslintConfig": {
     "extends": [
       "react-app",

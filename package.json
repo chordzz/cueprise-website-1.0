@@ -32,14 +32,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CuesoftCloud/cueprise-website.git"
+    "url": "git+https://github.com/chordzz/cueprise-website-1.0.git"
   },
   "keywords": [],
   "author": "",
   "bugs": {
-    "url": "https://github.com/CuesoftCloud/cueprise-website/issues"
+    "url": "https://github.com/chordzz/cueprise-website-1.0/issues"
   },
-  "homepage": "https://cueprise.com",
+  "homepage": "https://chordzz.github.io/cueprise-website-1.0/",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -64,7 +64,7 @@
     ]
   },
   "dependencies": {
-    "@cuesoftcloud/logger": "^1.1.1",
+    "@cuesoftinc/logger": "npm:@cuesoftcloud/logger@^1.1.1",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.5.3",

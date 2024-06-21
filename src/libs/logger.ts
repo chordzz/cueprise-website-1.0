@@ -1,5 +1,5 @@
 import "setimmediate";
-import Logger from "@cuesoftcloud/logger";
+import Logger from "@cuesoftinc/logger";
 import service from "../../package.json";
 
 const { logger } = new Logger({
